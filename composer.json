@@ -1,0 +1,12 @@
+{
+    "name": "PHPBeer/package_beer",
+    "description": "Beer beer",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Erik Stabij",
+            "email": "estabij@gmail.com"
+        }
+    ]
+}
